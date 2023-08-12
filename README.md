@@ -2,7 +2,7 @@
 
 This repo consists of:
 - climate_starter_Geeson: the jupyter notebook with the analysis for the first section of the challenge
-- Flask Task: the jupyter notebook of the second part, developing the API for the challenge.
+- Flask Task: the jupyter notebook of the second part, developing the API for the challenge. (Also saved as a py: FlaskTask.py)
 - It also contains the two csv files and the hawaii.sqlite used as resources.
 - And finally, the readme file.
 
